@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="button_next_text">Next</string>
+    <string name="button_previous_text">Previous</string>
+    <string name="image_name_1">New sunset</string>
+    <string name="image_name_2">Autumn in Japan</string>
+    <string name="image_name_3">Town in the countryside</string>
+    <string name="image_year_1">2020</string>
+    <string name="image_year_2">2022</string>
+    <string name="image_year_3">2023</string>
+    <string name="image_author">Nicolás Cristaldo</string>
+</resources>
